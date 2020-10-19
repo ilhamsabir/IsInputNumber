@@ -1,7 +1,7 @@
 # Is Input Number
 
 This is vue component input number with button handler.
-[Live Demo Here](https://vsnp7.csb.app/).
+[Live Demo Here](https://codesandbox.io/s/demo-is-input-number-99rou).
 
 
 ### Installation
