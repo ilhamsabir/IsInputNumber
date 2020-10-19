@@ -12,7 +12,7 @@ $ npm install -d is-input-number
 ### Setup
 ##### Global
 ```javascript
-Import IsInputNumber from 'IsInputNumber'
+import IsInputNumber from 'is-input-number';
 
 Vue.use(IsInputNumber)
 
@@ -35,7 +35,7 @@ Vue.use(IsInputNumber)
 
 <script>
 // this for implement on local file
-Import IsInputNumber from 'IsInputNumber'
+import IsInputNumber from 'is-input-number';
 
 export default {
 	// this for implement on local file
